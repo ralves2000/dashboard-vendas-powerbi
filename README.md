@@ -51,7 +51,7 @@ O faturamento apresentou crescimento ao longo do período analisado, com destaqu
 
 A categoria **Tecnologia** apresentou o maior faturamento e também o maior lucro entre as categorias analisadas.
 
-A categoria **Material de Escritório** apresentou faturamento elevado, porém com uma lucratividade proporcionalmente menor.
+A categoria Material de Escritório apresentou faturamento elevado, porém com uma lucratividade proporcionalmente menor.
 
 ### ⚠️ Subcategorias com prejuízo
 
@@ -61,7 +61,7 @@ Esse resultado indica a necessidade de investigar fatores como descontos, custos
 
 ### 🔴 Produtos com maior prejuízo
 
-A análise dos cinco produtos com maior prejuízo identificou aproximadamente **US$ 22,1 mil em perdas**.
+A análise dos cinco produtos com maior prejuízo identificou aproximadamente US$ 22,1 mil em perdas.
 
 Esse resultado permite direcionar uma investigação mais específica sobre os produtos que apresentam maior impacto negativo na rentabilidade.
 
@@ -110,7 +110,8 @@ dashboard-vendas-powerbi/
 ├── README.md
 ├── Dashboard-vendas.png
 ├── Dashboard-Vendas.pbix
-└── superstore_tratada.csv
+└── Dados/
+    └── Sample - Superstore.csv
 
 ## 👤 Autor
 
